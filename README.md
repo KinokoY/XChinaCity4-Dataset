@@ -106,7 +106,7 @@ If you find this dataset useful, please consider citing our work.
 对于仓库中提供的示例数据，您可以从以下链接下载对应的媒体文件（图片/视频）：
 
 - **Google Drive**: [Upload later]
-- **百度网盘**: [[链接占位符](https://pan.baidu.com/s/1HxvKhHkv7H38Wf8gMVSWFg)] (提取码: `0721`)
+- **百度网盘**: [https://pan.baidu.com/s/1HxvKhHkv7H38Wf8gMVSWFg] (提取码: `0721`)
 
 *云存储中的文件夹结构与 `media_data.json` 中的 `post ID` 一一对应。*
 
