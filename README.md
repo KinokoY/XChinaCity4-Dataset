@@ -77,7 +77,7 @@ If you find this dataset useful, please consider citing our work.
   author={Wang, Zitong and Peng, Yan and Liu, Chun and Wang, Jie},
   journal={Under Review},
   year={2025},
-  note={Dataset available at: https://github.com/KinokoY/XChinaCity4}
+  note={Dataset available at: https://github.com/KinokoY/XChinaCity4-Dataset}
 }
 ```
 
@@ -151,6 +151,6 @@ XChinaCity4 数据集统计摘要如下：
   author={Wang, Zitong and Peng, Yan and Liu, Chun and Wang, Jie},
   journal={Under Review},
   year={2025},
-  note={Dataset available at: https://github.com/KinokoY/XChinaCity4}
+  note={Dataset available at: https://github.com/KinokoY/XChinaCity4-Dataset}
 }
 ```
