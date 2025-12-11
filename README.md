@@ -41,7 +41,7 @@ For the provided sample entries, you can download the associated media files (im
 ### Pre-processing
 To ensure high quality for SMPP tasks, the raw data (15,847 posts) underwent a rigorous cleaning procedure:
 1. **Privacy & Artifact Removal**: URLs and third-party user mentions were removed.
-2. **Quality Filtering**: Reply tweets, retweets, and posts that were **shorter than 10 words** or contained **no media attachments** were filtered out.
+2. **Quality Filtering**: Reply tweets, retweets, and posts that were **shorter than 10 words** and contained **no media attachments** were filtered out.
 3. **Normalization**: Emojis were removed to mitigate encoding inconsistencies.
 4. **Retention**: The final dataset represents approximately **71%** of the initially collected data.
 
@@ -115,7 +115,7 @@ If you find this dataset useful, please consider citing our work.
 ### 数据预处理
 为了确保 SMPP 任务的数据质量，我们对原始采集的 15,847 条推文进行了严格的多步骤清洗：
 1. **隐私与噪声去除**：移除了文本中的 URL 和第三方用户提及（Mentions）。
-2. **质量过滤**：过滤掉了回复贴、转推贴，以及**单词数少于10个**或**不包含任何媒体附件**的帖子。
+2. **质量过滤**：过滤掉了回复贴、转推贴，以及**单词数少于10个**且**不包含任何媒体附件**的帖子。
 3. **标准化**：移除了 Emoji 表情符号以减少编码不一致的影响。
 4. **数据留存**：最终数据集保留了约 **71%** 的原始数据。
 
