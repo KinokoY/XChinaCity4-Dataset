@@ -31,7 +31,7 @@ Data was collected via X's advanced search from the following official verified 
 ### Sample Media Download
 For the provided sample entries, you can download the associated media files (images/videos) here:
 
-- **Google Drive**: [Upload later]
+- **Google Drive**: [https://drive.google.com/file/d/1gFIhO3qPebpSk-_G0ZiyeFrtljYPIseI/view?usp=sharing]
 - **Baidu Netdisk**: [https://pan.baidu.com/s/1HxvKhHkv7H38Wf8gMVSWFg] (Password: `0721`)
 
 *The folder structure in the cloud storage mirrors the `post ID` found in `media_data.json`.*
@@ -105,7 +105,7 @@ If you find this dataset useful, please consider citing our work.
 ### 示例媒体文件下载
 对于仓库中提供的示例数据，您可以从以下链接下载对应的媒体文件（图片/视频）：
 
-- **Google Drive**: [Upload later]
+- **Google Drive**: [https://drive.google.com/file/d/1gFIhO3qPebpSk-_G0ZiyeFrtljYPIseI/view?usp=sharing]
 - **百度网盘**: [https://pan.baidu.com/s/1HxvKhHkv7H38Wf8gMVSWFg] (提取码: `0721`)
 
 *云存储中的文件夹结构与 `media_data.json` 中的 `post ID` 一一对应。*
