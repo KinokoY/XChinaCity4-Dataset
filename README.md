@@ -13,7 +13,7 @@
 
 **XChinaCity4** is a comprehensive multimodal benchmark dataset tailored for **Social Media Popularity Prediction (SMPP)**. Unlike existing datasets (e.g., SMPD, TPIC) that rely on static, isolated posts, XChinaCity4 focuses on contemporary social media content with rich streaming media and inter-post relationships.
 
-The dataset comprises **10,872 posts** collected from the official X (formerly Twitter) accounts of four major Chinese cities—**Beijing, Shanghai, Hangzhou, and Shenzhen**—spanning from January 1, 2023, to June 1, 2025. It encompasses text, images, videos, and metadata, providing a solid foundation for researching content recommendation, information dissemination, and city branding.
+The dataset comprises **10,872 posts** collected from the official X (formerly Twitter) accounts of four major Chinese cities—**Beijing, Shanghai, Hangzhou, and Shenzhen**—spanning from January 1, 2023, to June 1, 2025. It encompasses text, images, videos, and metadata.
 
 ### 🏙️ Data Sources
 Data was collected via X's advanced search from the following official verified accounts:
@@ -87,7 +87,7 @@ If you find this dataset useful, please consider citing our work.
 
 **XChinaCity4** 是一个专为**社交媒体流行度预测 (SMPP)** 任务定制的综合多模态基准数据集。与现有的依赖静态、孤立帖子的数据集（如 SMPD, TPIC）不同，XChinaCity4 聚焦于包含丰富流媒体信息和帖子间潜在关联的现代社交媒体内容。
 
-该数据集包含 **10,872 条推文**，采集自北京、上海、杭州、深圳四个中国主要城市的官方 X（原 Twitter）账号，时间跨度为 2023年1月1日至2025年6月1日。数据涵盖了文本、图像、视频及元数据，为内容推荐、信息传播分析及城市品牌研究提供了坚实的数据基础。
+该数据集包含 **10,872 条推文**，采集自北京、上海、杭州、深圳四个中国主要城市的官方 X（原 Twitter）账号，时间跨度为 2023年1月1日至2025年6月1日。数据涵盖了文本、图像、视频及元数据。
 
 ### 🏙️ 数据来源
 数据通过 X 平台的高级搜索功能采集自以下官方认证账号：
